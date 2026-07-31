@@ -1,8 +1,8 @@
 {
-  "version": "1.0.07",
-  "download_url": "https://github.com/562855250jcf-stack/JCF-PDF-Updater/releases/download/v1.0.07/JCF-PDF-Drawing-Tool-Online.exe",
-  "sha256": "82dd18afe9317da6b9e8ecb5bb597477acbb65a3ee945df78b3bcfab28a69b90",
-  "size_bytes": 147358235,
+  "version": "1.0.08",
+  "download_url": "https://github.com/562855250jcf-stack/JCF-PDF-Updater/releases/download/v1.0.08/JCF-PDF-Drawing-Tool-Online.exe",
+  "sha256": "33f2a41e6655692de798ad33fc27b661acc2247bd82226bd2bbd1c490a83c149",
+  "size_bytes": 147361229,
   "size_mb": 140.5,
-  "notes": "新增 GitHub 联网自动更新；增加手动检查更新按钮；保留完整离线版本；更新包下载后自动校验、替换并重启。"
+  "notes": "改进 GitHub 联网更新稳定性：版本清单自动重试；更新包断点续传；主下载通道失败时自动切换 Windows 备用通道；保留 SHA-256 完整性校验。"
 }
